@@ -1,1 +1,3 @@
-# Effective-Mobile_test_task
+# Effective-Mobile: тестовое задание
+
+Скачать файл: link
